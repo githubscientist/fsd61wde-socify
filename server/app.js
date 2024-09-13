@@ -19,7 +19,7 @@ app.get('*', (req, res) => {
 
 // enable cors
 app.use(cors({
-    origin: 'https://fsd61wde-socify.netlify.app',
+    origin: 'https://fsd61wde-socify.onrender.com/',
     credentials: true
 }));
 

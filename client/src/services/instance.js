@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // define the base url
-const baseURL = "https://fsd61wde-be.onrender.com";
+const baseURL = "";
 
 // create an axios instance
 const instance = axios.create({
